@@ -1,2 +1,1 @@
-# RL
-A few projects I made using RL
+Some packages have deprecated and wont work coorectly. Especially the render() function.
